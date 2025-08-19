@@ -1,0 +1,6 @@
+
+# font build staging
+font-files/_src-ttf/
+font-files/_build-woff2/
+# never commit raw TTFs
+font-files/*.ttf
